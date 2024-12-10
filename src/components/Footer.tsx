@@ -24,10 +24,10 @@ const Footer = () => {
               </div>            </li>
 
             <li>
-              <a href="javascript:void(0)" className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Contact Info</a>
+              <a className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Contact Info</a>
             </li>
             <li>
-              <a href="javascript:void(0)" className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">17 Princess Road, London, Greater London NW1 8JR, UK</a>
+              <a className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">17 Princess Road, London, Greater London NW1 8JR, UK</a>
             </li>
           </ul>
         </div>
@@ -36,16 +36,16 @@ const Footer = () => {
           <h4 className="text-black font-semibold text-lg mb-6">Catagories</h4>
           <ul className="space-y-5">
             <li>
-              <a href="javascript:void(0)" className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Web Development</a>
+              <a className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Web Development</a>
             </li>
             <li>
-              <a href="javascript:void(0)" className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Testing Automation</a>
+              <a className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Testing Automation</a>
             </li>
             <li>
-              <a href="javascript:void(0)" className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">AWS Development Services</a>
+              <a className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">AWS Development Services</a>
             </li>
             <li>
-              <a href="javascript:void(0)" className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Mobile App Development</a>
+              <a className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Mobile App Development</a>
             </li>
           </ul>
         </div>
@@ -72,23 +72,23 @@ const Footer = () => {
           <h4 className="text-black font-semibold text-lg mb-6">Pages</h4>
           <ul className="space-y-5">
             <li>
-              <a href="javascript:void(0)" className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Blog</a>
+              <a className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Blog</a>
             </li>
             <li>
-              <a href="javascript:void(0)" className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Browse the shop</a>
+              <a className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Browse the shop</a>
             </li>
             <li>
-              <a href="javascript:void(0)" className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Catagory</a>
+              <a className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Catagory</a>
             </li>
             <li>
-              <a href="javascript:void(0)" className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Pre Built Pages</a>
+              <a className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Pre Built Pages</a>
 
             </li>
             <li>
-              <a href="javascript:void(0)" className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Visual Composer Elements</a>
+              <a className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">Visual Composer Elements</a>
             </li>
             <li>
-              <a href="javascript:void(0)" className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">WooCommerce Pages</a>
+              <a className="hover:text-[#FB2E86] text-gray-500 text-[15px] transition-all">WooCommerce Pages</a>
 
             </li>
 
