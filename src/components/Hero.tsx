@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import Link from 'next/link'
 import { FaPenNib } from "react-icons/fa";
 import { CiCalendarDate } from "react-icons/ci";
 
